@@ -1663,11 +1663,23 @@ input, select, textarea {
 		/* Styling for position sub-header*/
 #full-stack-title {
 	font-size: 1.2em;
+	color: greenyellow
 }
 h1 {
-	color: red;
+	color: white
 }
 
 #interests {
 	overflow: wrap;
+}
+
+.mainBack {
+	min-height: 100%;
+	min-width:1024;
+	width: 100%;
+	height: auto;
+	position: fixed;
+	top: 0;
+	left: 0;
+
 }

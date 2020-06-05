@@ -1660,6 +1660,10 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+
+		/* Custom styles */
+
 		/* Styling for position sub-header*/
 #full-stack-title {
 	font-size: 1.2em;
@@ -1681,5 +1685,15 @@ h1 {
 	position: fixed;
 	top: 0;
 	left: 0;
+}
 
+#nav-wrapper {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.navIcon {
+	padding-left: 10px;
+	font-size: 20px;
 }

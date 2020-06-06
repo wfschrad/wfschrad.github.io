@@ -1688,12 +1688,13 @@ h1 {
 }
 
 #nav-wrapper {
+	margin-right: 240px;
 	width: 100%;
 	display: flex;
 	justify-content: flex-end;
 }
 
 .navIcon {
-	padding-left: 10px;
-	font-size: 20px;
+	padding-left: 16px;
+	font-size: 32px;
 }
